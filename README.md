@@ -1,3 +1,3 @@
 # medBase
 
-# Authors: Nikolay Yurashku, Alexander Strakhov
+Authors: Nikolay Yurashku, Alexander Strakhov
